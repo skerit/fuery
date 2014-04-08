@@ -1,7 +1,7 @@
 {
 	"name": "fuery",
 	"description": "Simple pausable function queue system",
-	"version": "0.0.2",
+	"version": "0.1.0",
 	"repository": {
 		"type": "git",
 		"url": "git://github.com/codedor/fuery.git"
