@@ -1,13 +1,25 @@
 {
 	"name": "fuery",
-	"description": "Simple pausable function queue system",
-	"version": "0.1.1-alpha",
+	"description": "A pausable function queue with optional parallel concurrency",
+	"version": "0.1.1",
 	"repository": {
 		"type": "git",
 		"url": "git://github.com/skerit/fuery.git"
 	},
+	"keywords": [
+		"queue",
+		"util",
+		"functional",
+		"flow"
+	],
+	"author": "Jelle De Loecker <jelle@kipdola.be>",
 	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/skerit/fuery/issues"
+	},
+	"homepage": "https://github.com/skerit/fuery",
 	"engines": {
-		"node": ">=0.8"
+		"node": ">=0.8",
+		"iojs": "1.x.x"
 	}
 }
